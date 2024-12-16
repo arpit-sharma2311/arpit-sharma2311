@@ -14,8 +14,8 @@ I'm a passionate Data Analyst with a strong background in data manipulation, vis
 
 ## 📫 Contact
 
-You can reach me at [as6652142@gmail.com].
-
+You can reach me at [as6652142@gmail.com].📧
+[7869777196].📱
 ---
 
 Thank you for visiting my GitHub profile! 🚀
