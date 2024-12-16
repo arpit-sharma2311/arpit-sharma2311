@@ -1,6 +1,7 @@
 Hey 👋 I am Arpit Sharma
 
-![NadechNadechKugimiyaGIF](https://github.com/user-attachments/assets/b9192118-3573-4df4-90c9-5f070710b2ad)
+![NadechNadechKugimiyaGIF (2)](https://github.com/user-attachments/assets/24b1edbe-6bc0-43a4-bb0a-76e6acc6cff5)
+
 
 
 I'm a passionate Data Analyst with a strong background in data manipulation, visualization, and statistical analysis. I love turning raw data into actionable insights that drive business decisions. 
